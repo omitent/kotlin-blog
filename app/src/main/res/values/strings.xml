@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Blog_Kotlin</string>
+
+    <string name="full_name">Full Name : %s</string>
+    <string name="email">Email : %s</string>
+    <string name="password">Password : %s</string>
+</resources>
